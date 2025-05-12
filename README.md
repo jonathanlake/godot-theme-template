@@ -1,12 +1,13 @@
-# godot-theme-template
+# Godot Theme Template
 A base UI theme template for Godot 4.x, accurately recreating the default theme preview. Ideal for customization and creating unique game UIs.
 
 
-**Description**
+## Description 
 
 The Godot Theme Template is a base UI theme recreation of the default Godot theme preview. This template serves as a starting point for developers who want to customize the UI of their Godot projects. With a clean and structured design, it replicates the look and feel of Godot's built-in theme preview, making it easy to modify and create new custom themes.
 
-**Features**
+
+## Features
 
 - Accurate recreation of Godot's default theme preview
 
@@ -16,17 +17,19 @@ The Godot Theme Template is a base UI theme recreation of the default Godot them
 
 - Simple structure for easy modification
 
-**Installation**
+
+## Installation
 
 1. Clone the repository from GitHub:
 
-git clone https://github.com/jonathanlake/godot-theme-template.git
+``` git clone https://github.com/jonathanlake/godot-theme-template.git ```
 
 2. Open the project in Godot.
 
 3. Navigate to the theme resource file (base_ui.tres) and adjust it as needed.
 
-**Usage**
+
+## Usage
 
 - Open the base_ui.tres file in the Godot editor.
 
@@ -36,10 +39,12 @@ git clone https://github.com/jonathanlake/godot-theme-template.git
 
 - Apply the theme to your project by attaching it to your root Control node.
 
-**Contributing**
+
+## Contributing
 
 Contributions are welcome! If you have a new theme based on this template, feel free to submit a pull request. Please ensure your theme follows the project structure and is tested in Godot 4.x.
 
-**License**
+
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.

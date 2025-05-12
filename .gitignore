@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Godot 4+ specific ignores
 .godot/
 .nomedia
@@ -14,3 +15,23 @@ export_credentials.cfg
 .mono/
 data_*/
 mono_crash.*.json
+=======
+# Godot-specific files
+.import/
+.export/
+.cache/
+.godot/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.log
+
+# Godot Vulkan shader cache
+*.shader_cache
+*.spv
+
+
+>>>>>>> 77fe061 (Initial commit: Add Godot project files)
